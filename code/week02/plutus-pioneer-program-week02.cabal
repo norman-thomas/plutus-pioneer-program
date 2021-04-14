@@ -14,6 +14,8 @@ library
                      , Week02.FortyTwo
                      , Week02.Homework1
                      , Week02.Homework2
+                     , Week02.MySolution1
+                     , Week02.MySolution2
                      , Week02.Gift
                      , Week02.IsData
                      , Week02.Solution1
